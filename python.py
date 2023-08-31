@@ -1,3 +1,3 @@
-# This code prints my name
+# This code prints my middle name
 
 print('seremen')
